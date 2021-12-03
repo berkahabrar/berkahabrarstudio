@@ -1,0 +1,243 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 5,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "image": "file:///android_asset/image/A.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "image": "file:///android_asset/image/B.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/1DURDURIDURIDE.mp3",
+      "duration": "334",
+      "lyrics": "<p>Sekarang Ku Tau Dirimu Telah Bersamanya</br>Walau Sakit Hati Yang ku Rasa</br>Akan Ku Jalani Dengan Sendirinya</br><p>Ku Terus Berjuang.. Walau Tampamu sayang..</br>Mimpi - Mimpi Yang Telah Ku ciptakan</br>Kini Hanya Tinggal Kenangan...</br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br><p>Sekarang Ku Tau Dirimu Telah Bersamanya</br>Walau Sakit Hati Yang ku Rasa</br>Akan Ku Jalani Dengan Sendirinya</br><p>Ku Terus Berjuang.. Walau Tampamu sayang..</br>Mimpi - Mimpi Yang Telah Ku ciptakan</br>Kini Hanya Tinggal Kenangan...</br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br><p>Sekarang Ku Tau Dirimu Telah Bersamanya</br>Walau Sakit Hati Yang ku Rasa</br>Akan Ku Jalani Dengan Sendirinya</br><p>Ku Terus Berjuang.. Walau Tampamu sayang..</br>Mimpi - Mimpi Yang Telah Ku ciptakan</br>Kini Hanya Tinggal Kenangan...</br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br><p>Duri -Duri Yang Kau Tancapkan Di hati Ini..</br>Membuat Diriku Sakit Hati</br>Aku Yang Berjuang Tuk Dirimu</br>Tapi dia Yang dapatkan Cintamu...</br><p>Surat Undangan Yang Kau Berikan Kepadaku</br>Serasa Ku Tak Percaya...</br>Ku titipkan Cintaku Kepadanya</br>Jagalah Dia Buat Lah Dia Bahagia... </br>Jagalah Dia Buat Lah Dia Bahagia... </br>"
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/2DURBUIHJADIPERMADANIDE.mp3",
+      "duration": "406",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/3DURBIDADARICINTADEL.mp3",
+      "duration": "289",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/4DURSETIAUNTUKSELAMANYADEL.mp3",
+      "duration": "361",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/5DURMENDUNGTANPOUDANDEL.mp3",
+      "duration": "375",
+      "lyrics": "</p>"
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "REMBULAN MALAM",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/6DURREMBULANMALAMDEL.mp3",
+      "duration": "338",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "EMAS HANTARAN",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/7DUREMASHANTARANDEL.mp3",
+      "duration": "413",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/8DURWIDODARIDEL.mp3",
+      "duration": "382",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "BAHAGIA",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/9DURBAHAGIADEL.mp3",
+      "duration": "396",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "GEDANG ROJO",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/10DURGEDANGROJODEL.mp3",
+      "duration": "372",
+      "lyrics": ""
+    },
+	{
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "SOTYA",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/11DURSOTYADEL.mp3",
+      "duration": "283",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "Om Adella Terbaru",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/A.jpg",
+      "link_mp3": "mp3/12DURSALAMTRESNODEL.mp3",
+      "duration": "316",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "JANDA BARU",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/13DURJANDABARUDEL.mp3",
+      "duration": "440",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "SAKIT GIGI",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/14DURSAKITGIGIDEL.mp3",
+      "duration": "305",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURANGELDEL.mp3",
+      "duration": "284",
+      "lyrics": "</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURCERITOLORODEL.mp3",
+      "duration": "295",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURCIDRO2DEL.mp3",
+      "duration": "223",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "KANDAS",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURKANDASDEL.mp3",
+      "duration": "272",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURLEMAHTELESDEL.mp3",
+      "duration": "425",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "LEYEH LEYEH",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURLEYEHLEYEHDEL.mp3",
+      "duration": "378",
+      "lyrics": ""
+    },
+	{
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "LUKA LAMA",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURLUKALAMADEL.mp3",
+      "duration": "332",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "TEMBANG TRESNO",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURTEMBANGTRESNODEL.mp3",
+      "duration": "330",
+      "lyrics": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Om Adella Asik",
+      "title": "TRESNO SUDRO",
+      "image": "file:///android_asset/image/B.jpg",
+      "link_mp3": "mp3/DURTRESNOSUDRODEL.mp3",
+      "duration": "308",
+      "lyrics": ""
+    }
+  ]
+}
