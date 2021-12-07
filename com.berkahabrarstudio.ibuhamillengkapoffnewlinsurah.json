@@ -1,113 +1,113 @@
 {
-	"Ads": [{
-		"select_main_ads": "ADMOB",
-		"select_backup_ads": "",
-		"main_ads_banner": "",
-		"main_ads_intertitial": "",
-		"backup_ads_banner": "qwerty1234",
-		"backup_ads_intertitial": "qwerty1234",
-		"interval_intertitial": 5,
-		"initialize_sdk": "null",
-		"initialize_sdk_backup_ads": "null",
-		"high_paying_keyword_1": "",
-		"high_paying_keyword_2": "",
-		"high_paying_keyword_3": "",
-		"high_paying_keyword_4": "",
-		"high_paying_keyword_5": "",
-		"status_app": "0",
-		"link_redirect": "https://"
-	}],
-	"Categories": [{
-			"id": 1,
-			"name_category": "surah",
-			"image": "file:///android_asset/image/BUMIL.jpg"
-		},
-		{
-			"id": 2,
-			"name_category": "surah",
-			"image": "file:///android_asset/image/BUMIL.jpg"
-		}
-	],
-	"Data": [{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH AL FATIHA",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/AMILALFATIHALENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH YUSUF",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "BMILSURAHYUSUFLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH MARYAM",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/CMILMARYAMLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH AR RAHMAN",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/DMILARRAHMANLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH IBRAHIM",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/EMILIBRAHIMLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH LUQMAN",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/FMILLUQMANLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH YASIN",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/GMILYASINLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "AYAT KURSI",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/HMILAYATKURSILENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		},
-		{
-			"id": 1,
-			"name_category": "Surah Ibu Hamil",
-			"title": "SURAH AL HUJARAT",
-			"image": "file:///android_asset/image/BUMIL.jpg",
-			"link_mp3": "mp3/MILALHUJARATLENG.mp3",
-			"duration": "101",
-			"lyrics": ""
-		}
-	]
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwerty1234",
+    "backup_ads_intertitial": "qwerty1234",
+    "interval_intertitial": 5,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "surah",
+    "image": "file:///android_asset/image/BUMIL.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "surah",
+      "image": "file:///android_asset/image/BUMIL.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "surah",
+    "title": "SURAH AL FATIHA",
+    "image": "file:///android_asset/image/BUMIL.jpg",
+    "link_mp3": "mp3/AMILALFATIHALENG.mp3",
+    "duration": "51",
+    "lyrics": ""
+  },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH YUSUF",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "BMILSURAHYUSUFLENG.mp3",
+      "duration": "2518",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH MARYAM",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/CMILMARYAMLENG.mp3",
+      "duration": "1269",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH AR RAHMAN",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/DMILARRAHMANLENG.mp3",
+      "duration": "731",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH IBRAHIM",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/EMILIBRAHIMLENG.mp3",
+      "duration": "1219",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH LUQMAN",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/FMILLUQMANLENG.mp3",
+      "duration": "711",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH YASIN",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/GMILYASINLENG.mp3",
+      "duration": "1050",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "AYAT KURSI",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/HMILAYATKURSILENG.mp3",
+      "duration": "104",
+      "lyrics": ""
+    },
+    {
+      "id": 1,
+      "name_category": "surah",
+      "title": "SURAH AL HUJARAT",
+      "image": "file:///android_asset/image/BUMIL.jpg",
+      "link_mp3": "mp3/MILALHUJARATLENG.mp3",
+      "duration": "499",
+      "lyrics": ""
+    }
+  ]
 }
