@@ -20,12 +20,12 @@
 	"Categories": [{
 			"id": 1,
 			"name_category": "surah",
-			"image": "file:///android_asset/image/khalid.jpg"
+			"image": "file:///android_asset/image/BUMIL.jpg"
 		},
 		{
 			"id": 2,
 			"name_category": "surah",
-			"image": "file:///android_asset/image/khalid.jpg"
+			"image": "file:///android_asset/image/BUMIL.jpg"
 		}
 	],
 	"Data": [{
