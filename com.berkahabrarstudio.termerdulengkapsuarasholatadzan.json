@@ -1,0 +1,271 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "",
+		"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+		"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+		"backup_ads_banner": "qwerty1234",
+		"backup_ads_intertitial": "qwerty1234",
+		"interval_intertitial": 3,
+		"initialize_sdk": "null",
+		"initialize_sdk_backup_ads": "null",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"link_redirect": "https://"
+	}],
+	"Categories": [{
+			"id": 1,
+			"name_category": "TAHRIM",
+			"image": "file:///android_asset/image/SATU.jpg"
+		},
+		{
+			"id": 2,
+			"name_category": "IQOHAM",
+			"image": "file:///android_asset/image/DUA.jpg"
+		},
+		{
+			"id": 3,
+			"name_category": "ADZAN",
+			"image": "file:///android_asset/image/TIGA.jpg"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "ADZAN",
+			"title": "ADZAN QATAR",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/ISHOADZANQATARMER.mp3",
+			"duration": "131",
+			"lyrics": ""
+		},
+		{
+			"id": 2,
+			"name_category": "ADZAN",
+			"title": "ADZAN TURKI",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/JSHOADZANTURKIMER.mp3",
+			"duration": "243",
+			"lyrics": ""
+		},
+		{
+			"id": 3,
+			"name_category": "ADZAN",
+			"title": "ADZAN KURDI",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/LSHOADZANKURDIMER.mp3",
+			"duration": "183",
+			"lyrics": ""
+		},
+		{
+			"id": 4,
+			"name_category": "ADZAN",
+			"title": "ADZAN MALAYSIA",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/LSHOADZANMALAYSIAMER.mp3",
+			"duration": "250",
+			"lyrics": ""
+		},
+		{
+			"id": 5,
+			"name_category": "ADZAN",
+			"title": "ADZAN IRAMA KURDI",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/MSHOADZANKURDIMER.mp3",
+			"duration": "241",
+			"lyrics": ""
+		},
+		{
+			"id": 6,
+			"name_category": "ADZAN",
+			"title": "ADZAN SUBUH INDONESIA",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/NADZANSUBUHINDOMER.mp3",
+			"duration": "207",
+			"lyrics": ""
+		},
+		{
+			"id": 7,
+			"name_category": "ADZAN",
+			"title": "ADZAN SUBUH MALAYSIA",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/NADZANSUBUHMALAYSIAMER.mp3",
+			"duration": "183",
+			"lyrics": ""
+		},
+		{
+			"id": 8,
+			"name_category": "ADZAN",
+			"title": "ADZAN SUBUH MADINAH",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/NADZANSUBUHMDINAHMER.mp3",
+			"duration": "307",
+			"lyrics": ""
+		},
+		{
+			"id": 9,
+			"name_category": "ADZAN",
+			"title": "ADZAN SUBUH MEKKAH",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/NADZANSUBUHMEKKAHMER.mp3",
+			"duration": "183",
+			"lyrics": ""
+		},
+		{
+			"id": 10,
+			"name_category": "ADZAN",
+			"title": "ADZAN SUBUH MERDU",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/NADZANSUBUHMER.mp3",
+			"duration": "181",
+			"lyrics": ""
+		},
+		{
+			"id": 11,
+			"name_category": "ADZAN",
+			"title": "ADZAN INDONESIA",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/AASHOADZANINDONEISAMER.mp3",
+			"duration": "296",
+			"lyrics": ""
+		},
+		{
+			"id": 12,
+			"name_category": "ADZAN",
+			"title": "ADZAN MEKAH",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/ASHOADZANMEKKAHMER.mp3",
+			"duration": "249",
+			"lyrics": ""
+		},
+		{
+			"id": 13,
+			"name_category": "ADZAN",
+			"title": "ADZAN MEKAH 1",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/BSHOADZANMEKKAHMER.mp3",
+			"duration": "163",
+			"lyrics": ""
+		},
+		{
+			"id": 14,
+			"name_category": "ADZAN",
+			"title": "ADZAN MADINAH",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/CSHOADZANMADINAHMER.mp3",
+			"duration": "257",
+			"lyrics": ""
+		},
+		{
+			"id": 15,
+			"name_category": "ADZAN",
+			"title": "ADZAN MASJIDIL HARAM",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/DHOSDZANMASJIDILHARAMMER.mp3",
+			"duration": "247",
+			"lyrics": ""
+		},
+		{
+			"id": 16,
+			"name_category": "ADZAN",
+			"title": "ADZAN MADINAH 1",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/DSHOADZANMADINAHMER.mp3",
+			"duration": "221",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "ADZAN",
+			"title": "ADZAN  PALESTINE",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/ESHOADZANPALESTINEMER.mp3",
+			"duration": "224",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "ADZAN",
+			"title": "ADZAN PALESTINE 1",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/FSHOADZANPALESTINEMER.mp3",
+			"duration": "239",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "ADZAN",
+			"title": "ADZAN DUBAI",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/GSHOADZANDUBAIMER.mp3",
+			"duration": "159",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "ADZAN",
+			"title": "ADZAN MESIR",
+			"image": "file:///android_asset/image/SATU.jpg",
+			"link_mp3": "mp3/HSHOADZANMESIRMER.mp3",
+			"duration": "170",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "IQOHAM",
+			"title": "IQOMAH MEKKAH",
+			"image": "file:///android_asset/image/DUA.jpg",
+			"link_mp3": "mp3/OIQOMAHMEKKAHMER.mp3",
+			"duration": "36",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "IQOHAM",
+			"title": "IQOMAH MADINAH",
+			"image": "file:///android_asset/image/DUA.jpg",
+			"link_mp3": "mp3/OIQOMAHMADINAHMER.mp3",
+			"duration": "39",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "IQOHAM",
+			"title": "IQOMAH MERDU",
+			"image": "file:///android_asset/image/DUA.jpg",
+			"link_mp3": "mp3/OIQOMAHMER.mp3",
+			"duration": "71",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "TAHRIM",
+			"title": "TAHRIM SEBELUM SHOLAT",
+			"image": "file:///android_asset/image/TIGA.jpg",
+			"link_mp3": "mp3/ZTAHRIMMEKAHMER.mp3",
+			"duration": "285",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "TAHRIM",
+			"title": "TAHRIM MERDU",
+			"image": "file:///android_asset/image/TIGA.jpg",
+			"link_mp3": "mp3/ZTAHRIMMER.mp3",
+			"duration": "354",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "TAHRIM",
+			"title": "TAHRIM INDAH",
+			"image": "file:///android_asset/image/TIGA.jpg",
+			"link_mp3": "mp3/ZTAHRIMMERD.mp3",
+			"duration": "183",
+			"lyrics": ""
+		}
+	]
+}
