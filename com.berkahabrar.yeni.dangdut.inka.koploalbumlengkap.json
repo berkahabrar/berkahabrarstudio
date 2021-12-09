@@ -1,0 +1,293 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "YENI INKA",
+      "image": "file:///android_asset/image/YENYENA.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "DANGDUT YENI INKA",
+      "image": "file:///android_asset/image/YENYENB.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "DANGDUT KOPLO",
+      "image": "file:///android_asset/image/YENYENC.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "YENI INKA",
+      "title": "MADIUN NGAWI",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/1NIMADIUNNGAWIUM.mp3",
+      "duration": "321",
+      "lyrics": "<p>Terminal Madiun Ngawi kenanganku</br>Ora bakalan aku ngelalekke</br>Mbiyen aku nduwe pacar anakke pak Tukiran</br>Bakul pecel ono ning pinggir prapatan</br><p>Terminal Madiun Ngawi nggen dolanku</br>Ora bakalan aku ngelalekke</br>Mbiyen jaman semono kowe janji karo aku</br>Nanging nyatane kowe ngingkari janjimu</br><p>Yen aku kangen kangen karo sliramu</br>Tak sawang sawang fotomu ning dompetku</br>Yen aku kangen kangen karo sliramu</br>Tak elus elus fotomu ning dompetku</br><p>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang fotomu ning dompetku</br>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang jenengmu ning atiku</br><p>Terminal Madiun Ngawi nggen dolanku</br>Ora bakalan aku ngelalekke</br>Mbiyen jaman semono kowe janji karo aku</br>Nanging nyatane kowe ngingkari janjimu</br><p>Yen aku kangen kangen karo sliramu</br>Tak sawang sawang fotomu ning dompetku</br>Yen aku kangen kangen karo sliramu</br>Tak elus elus fotomu ning dompetku</br><p>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang fotomu ning dompetku</br>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang jenengmu ning atiku</br></br>"
+    },
+	{
+      "id": 2,
+      "name_category": "YENI INKA",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/2NIDURIDURIBUM.mp3",
+      "duration": "285",
+      "lyrics": "<p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br><p>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br><p>Sekarang ku tahu dirimu telah bersamanya</br>Walau sakit hati yang ku rasa</br>Akan ku jalani dengan sendirinya</br><p>Ku terus berjuang walau tanpamu sayang</br>Mimpi mimpi yang telah ku ciptakan</br>Kini hanya tinggallah kenangan</br><p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br><p>Ku terus berjuang walau tanpamu sayang</br>Mimpi mimpi yang telah ku ciptakan</br>Kini hanya tinggallah kenangan</br><p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br><p>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br><p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br><p>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br>agalah dia, buatlah dia bahagia</br>"
+    },
+	{
+      "id": 3,
+      "name_category": "YENI INKA",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/3NIBIDADARICINTABUM.mp3",
+      "duration": "272",
+      "lyrics": "<p>bersyukur kepada allah</br>ku telah dipertemukan</br>kekasih baik hati sepertimu</br><p>apa pun adanya engkau</br>kurela dan menerima</br>segenap jiwa ragaku untukmu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br><p>apa pun adanya engkau</br>kurela dan menerima</br>segenap jiwa ragaku untukmu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br><p>apa pun adanya engkau</br>kurela dan menerima</br>segenap jiwa ragaku untukmu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br>dan menjadi bidadari cintamu</br>dan menjadi bidadari cintamu</br>"
+    },
+	{
+      "id": 4,
+      "name_category": "YENI INKA",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/4NITOPTOPANBUM.mp3",
+      "duration": "230",
+      "lyrics": "<p>Wes tak cobo ngampet loro</br>Wes tak cobo jogo tresno</br>Loro sing tok jalari ora tak rasakke</br>Najan aku ngerti koe karo liyane</br><p>Cobo koe ono ning posisiku</br>Opo koe iso kuat atimu</br>Ngrasakke tok larani</br>Ning sak bendinoku</br>Koe ra ngroso kok malah suloyo</br><p>Kulo pun angkat tangan</br>Atine pun ajur ajuran</br>Kulo tak milih pamit</br>Ati kulo pun roso sakit</br><p>Ngapurane sayang</br>Aku udu wong top topan</br>Ora koyo idamanmu</br>Sing gampang nrobos atimu</br><p>Aku janne ngerti koe ghosting ati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br><p>Kulo pun angkat tangan</br>Atine pun ajur ajuran</br>Kulo tak milih pamit</br>Ati Kulo Pun Roso Sakit</br><p>Ngapurane sayang</br>Aku udu wong top topan</br>Ora koyo idamanmu</br>Sing gampang nrobos atimu</br><p>Aku janne ngerti koe ghosting ati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br><p>Ngapurane sayang</br>Aku udu wong top topan</br>Ora koyo idamanmu</br>Sing gampang nrobos atimu</br><p>Aku janne ngerti koe ghosting ati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br>>"
+    },
+	{
+      "id": 5,
+      "name_category": "YENI INKA",
+      "title": "SIA SIA BERJUANG",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/5NISIASIABERJUANGBUM.mp3",
+      "duration": "286",
+      "lyrics": "<p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br><p>Sayang ku sedang berjuang</br>Untuk melamar dirimu</br>Tapi mengapa kau tinggalkanku</br>Demi orang yang baru kau kenal</br><p>Tiga tahun kita telah bersama</br>Menjalani hubungan cinta kita</br>Orang tuamu tak merestui kita</br>Sungguh sakit hati ini rasanya</br><p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br><p>Tiga tahun kita telah bersama</br>Menjalani hubungan cinta kita</br>Orang tuamu tak merestui kita</br>Sungguh sakit hati ini rasanya</br><p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br><p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br>Ku hanya bisa mendoakan engkau bahagia</br>"
+    },
+	{
+      "id": 6,
+      "name_category": "YENI INKA",
+      "title": "JIKA",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/6NIJIKABUM.mp3",
+      "duration": "298",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 7,
+      "name_category": "YENI INKA",
+      "title": "I LOVE MAMA MERTUA",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/7NIILOVEMAMAMANTUBUM.mp3",
+      "duration": "214",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 8,
+      "name_category": "YENI INKA",
+      "title": "KEHADIRAN CINTA",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/8NIKEHADIRANCINTABUM.mp3",
+      "duration": "289",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 9,
+      "name_category": "YENI INKA",
+      "title": "MENDUNG ATANPO UDAN",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/9NIMENDUNGTANPOUDANBUM.mp3",
+      "duration": "375",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 10,
+      "name_category": "YENI INKA",
+      "title": "BUIH JADI PERMADANI",
+      "image": "file:///android_asset/image/YENYENA.jpg",
+      "link_mp3": "mp3/1NIBUIHJADIPERMADANIBUM.mp3",
+      "duration": "289",
+      "lyrics": "Dinginnya angin malam ini menyapa tubuhku</br>Namun tidak dapat dinginkan panasnya hatiku ini</br>Terasa terhempasnya kelakianku ini dengan sikapmu</br>Apakah karena aku insan kekurangan mudahnya kau mainkan</br><p>Oh mungkinkah diri ini</br>Dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta, yang kau ucap dalam janji cinta</br>Juga mustahil bagiku, menggapai bintang di langit</br>Siapa lah diriku hanya insan biasa</br>Semua itu, sungguh aku tiada mampu</br><p>Salah aku juga, karena jatuh cinta</br>Insan sepertimu seanggun bidadari</br>Seharusnya aku, cerminkan diriku</br>Sebelum tirai hati aku buka</br>Untuk mencintaimu</br><p>Oh mungkinkah diri ini</br>Dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta, yang kau ucap dalam janji cinta</br>Juga mustahil bagiku, menggapai bintang di langit</br>Siapa lah diriku hanya insan biasa</br>Semua itu, sungguh aku tiada mampu</br><p>Salah aku juga, karena jatuh cinta</br>Insan sepertimu seanggun bidadari</br>Seharusnya aku, cerminkan diriku</br>Sebelum tirai hati aku buka</br>Untuk mencintaimu"
+    },
+	{
+      "id": 11,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/10NIWIDODARIBUM.mp3",
+      "duration": "382",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 12,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "JANDA BARU",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/11NIJANDABARUBUM.mp3",
+      "duration": "440",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 13,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/12NIANGELBUM.mp3",
+      "duration": "284",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 14,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/13NICIDROBUM.mp3",
+      "duration": "223",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 15,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/14NILEMAHTELESBUM.mp3",
+      "duration": "425",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 16,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "SATRU",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/15NISATRUBUM.mp3",
+      "duration": "290",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 17,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/16NIWESTATAS.mp3",
+      "duration": "322",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 18,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "TALINGING ASMORO",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/17NITALININGASMOROBUM.mp3",
+      "duration": "271",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 19,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "TRESNO SUDRO",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/18NITRESNOSUDROBUM.mp3",
+      "duration": "341",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 20,
+      "name_category": "DANGDUT YENI INKA",
+      "title": "SOTYA",
+      "image": "file:///android_asset/image/YENYENB.jpg",
+      "link_mp3": "mp3/19NISOTYABUM.mp3",
+      "duration": "304",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 21,
+      "name_category": "DANGDUT KOPLO",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NICERITOLOROBUM.mp3",
+      "duration": "295",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 22,
+      "name_category": "DANGDUT KOPLO",
+      "title": "KUAT ATI",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NIKUATATIBUM.mp3",
+      "duration": "270",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 23,
+      "name_category": "DANGDUT KOPLO",
+      "title": "LDR",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NILDRBUM.mp3",
+      "duration": "343",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 24,
+      "name_category": "DANGDUT KOPLO",
+      "title": "LEYEH LEYEH",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NILEYEHLEYEHBUM.mp3",
+      "duration": "378",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 25,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SAKIT GIGI",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NISAKITGIGIBUM.mp3",
+      "duration": "305",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 26,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NISALAMTRESNOBUM.mp3",
+      "duration": "316",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 27,
+      "name_category": "DANGDUT KOPLO",
+      "title": "TUTOKNO LAKUMU",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NITUTOKNOLAKUMUBUM.mp3",
+      "duration": "299",
+      "lyrics": "<p>"
+    },
+	{
+      "id": 28,
+      "name_category": "DANGDUT KOPLO",
+      "title": "WES OLEH GANTI",
+      "image": "file:///android_asset/image/YENYENC.jpg",
+      "link_mp3": "mp3/NIWESOLEHGANTIBUM.mp3",
+      "duration": "298",
+      "lyrics": "<p>"
+    }
+  ]
+}
