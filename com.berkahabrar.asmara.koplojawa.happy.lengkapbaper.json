@@ -1,0 +1,261 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "TERBARU",
+      "image": "file:///android_asset/image/hapa.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "KOPLO ASIK",
+      "image": "file:///android_asset/image/hapb.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "TERBARU",
+      "title": "AMBYAR MAK PYAR",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/11PYAMBYARMKPYARPO.mp3",
+      "duration": "297",
+      "lyrics": ""
+	  },
+    {
+      "id": 2,
+      "name_category": "TERBARU",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/10PYSALAMTRESNOPO.mp3",
+      "duration": "310",
+      "lyrics": ""
+	  },
+	  {
+      "id": 3,
+      "name_category": "TERBARU",
+      "title": "BAHAGIA",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/7PYBAHAGIAPO.mp3",
+      "duration": "296",
+      "lyrics": ""
+	  },
+	  {
+      "id": 4,
+      "name_category": "TERBARU",
+      "title": "PINGAL",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/6PYPINGGALPO.mp3",
+      "duration": "285",
+      "lyrics": "<p>Piye sek jelaske karo wong tuwo</br>Wes ngelakoni tekan semene</br>Nek akhire bakal bubar pisahan</br>Kowe kegudo tresno karo wong liyo</br><p>Ngelali kowe sing tau ngomong dewe</br>Ngelakoni tresno tekan tuwo</br>Ora ngeliyo mung aku ning atimu</br>Nanging saiki atimu ono wong liyo</br><p>Ibarat esuk mendung, awan aku kudanan</br>Sore mbok larani, bengi tak tangisi</br><p>Mung iso bayangke kabeh kenangan</br>Kowe tak boncengke, turut dalan kekepan kudanan</br>Saiki nyatane kowe malah milih</br>Dikekep wong liyo</br><p>Opo kowe ra kroso abote atiku</br>Kudu kelangan wong sing paling tak tresnani</br>Ra jenak dolan, ra doyan mangan</br>Nek ra mbok dulang</br><p>Ibarat esuk mendung, awan aku kudanan</br>Sore mbok larani, bengi tak tangisi</br><p>Mung iso bayangke kabeh kenangan</br>Kowe tak boncengke, turut dalan kekepan kudanan</br>Saiki nyatane kowe malah milih</br>Dikekep wong liyo</br><p>Opo kowe ra kroso abote atiku</br>Kudu kelangan wong sing paling tak tresnani</br>Ra jenak dolan, ra doyan mangan</br>Nek ra mbok dulang</br><p>Ra jenak dolan, ra doyan mangan</br>Nek ra mbok dulang</br>"
+	  },
+	  {
+      "id": 5,
+      "name_category": "TERBARU",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/5PYDURIDURIPO.mp3",
+      "duration": "213",
+      "lyrics": ""
+	  },
+	  {
+      "id": 6,
+      "name_category": "TERBARU",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/4PYLEMAHTELESPO.mp3",
+      "duration": "306",
+      "lyrics": ""
+	  },
+	  {
+      "id": 7,
+      "name_category": "TERBARU",
+      "title": "OJO NANGIS",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/3PYOJONANGISPO.mp3",
+      "duration": "357",
+      "lyrics": "<p>Mbiyen mbok perjuangke</br>Saiki mbok sia siake</br>Aku sing slalu ono pas kowe loro</br>Pas kowe durung sopo - sopo</br><p>Aku wis jogo ati</br>Kowe dolanan neng buri</br>Kabeh sing tak perjuangke sio sio</br>Kowe milih karo sing luwih mulyo</br><p>Mesakke Atiku</br>Yen tak teruske ro kowe</br>Mending pisah, aku wes ra betah</br>wes kebacut getun</br>kulo nderek langkung</br>Tresno wis rampung</br><p>Ojo nangis</br>sing uwes yo uwes</br>seng ilang ben ilang</br>cukup aku kelaran laran</br><p>Aku nyerah</br>seng bubrah ben bubrah</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br><p>kudune ngati ati</br>opo meneh yen bab ati</br>kudu mlaku dewe dewe</br>larane tak tanggung dewe</br><p>Mesakke Atiku</br>Yen tak teruske ro kowe</br>Mending pisah, aku wes ra betah</br>wes kebacut getun</br>kulo nderek langkung</br>Tresno wis rampung</br><p>Ojo nangis</br>sing uwes yo uwes</br>seng ilang ben ilang</br>cukup aku kelaran laran</br><p>Aku nyerah</br>seng bubrah ben bubrah</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br><p>Ojo nangis</br>sing uwes yo uwes</br>seng ilang ben ilang</br>cukup aku kelaran laran</br><p>Aku nyerah</br>seng bubrah ben bubrah</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br>"
+	  },
+	  {
+      "id": 8,
+      "name_category": "TERBARU",
+      "title": "AKU BUKAN JODOHNYA",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/2PYAKUBUKANJODOHNYAPO.mp3",
+      "duration": "286",
+      "lyrics": "<p>Ini salahku</br>Terlalu memikirkan egoku</br>Tak mampu buatmu bersanding nyaman denganku</br>Hingga kau pergi tinggalkan aku</br><p>Terlambat sudah</br>Kini kau tlah menemukan dia</br>Seseorang yang mampu membuatmu bahagia</br>Ku ikhlas kau bersanding dengannya</br><p>Aku titipkan dia</br>Lanjutkan perjuanganku tuknya</br>Bahagiakan dia kau sayangi dia</br>Seperti ku menyayanginya</br><p>Kan kuikhlaskan dia</br>Tak pantas ku bersanding dengannya</br>Kan kuterima dengan lapang dada</br>Aku bukan jodohnya</br><p>Aku titipkan dia</br>Lanjutkan perjuanganku tuknya</br>Bahagiakan dia, kau sayangi dia</br>Seperti ku menyayanginya</br><p>Dan kan kuikhlaskan dia</br>Tak pantas ku bersanding dengannya</br>Kan kuterima dengan lapang dada</br>Aku bukan jodohnya, oh-oh</br><p>aku titipkan dia</br>Lanjutkan perjuanganku 'tuknya</br>Bahagiakan dia, kau sayangi dia</br>Seperti ku menyayanginya</br><p>Kan kuikhlaskan dia</br>Tak pantas ku bersanding dengannya</br>Dan 'kan kuterima dengan lapang dada</br>Aku bukan jodohnya</br>Dan 'kan kuterima dengan lapang dada</br>Aku bukan jodohnya</br>"
+	  },
+	  {
+      "id": 9,
+      "name_category": "TERBARU",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/1PYTOPTOPANPO.mp3",
+      "duration": "308",
+      "lyrics": "<p>wes tak cobo ngampet loro</br>wes tak cobo jogo tresno</br>loro sing tok jalari ora tak rasakke</br>najan aku ngerti koe karo liyane</br><p>cobo koe ono ning posisiku</br>opo koe iso kuat atimu</br>ngrasakke tok larani</br>ning sak bendinoku</br>koe ra ngroso kok malah suloyo</br><p>kulo pun angkat tangan</br>atine pun ajur ajuran</br><p>kulo tak milih pamit</br>ati kulo pun roso sakit</br><p>ngapurane sayang</br>aku udu wong top topan</br>ora koyo idamanmu</br>sing gampang nrobos atimu</br><p>aku janne ngerti koe ghosting ati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br><p>cobo koe ono ning posisiku</br>opo koe iso kuat atimu</br><p>ngrasakke tok larani</br>ning sak bendinoku</br>koe ra ngroso kok malah suloyo</br><p>kulo pun angkat tangan</br>atine pun ajur ajuran</br>kulo tak milih pamit</br>ati kulo pun roso sakit</br><p>ngapurane sayang</br>aku udu wong top topan</br>ora koyo idamanmu</br>sing gampang nrobos atimu</br><p>aku janne ngerti koe ghosting ati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br><p>ngapurane sayang</br>aku udu wong top topan</br>ora koyo idamanmu</br>sing gampang nrobos atimu</br><p>aku janne ngerti koe ghosting ati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br>"
+	  },
+	  {
+      "id": 10,
+      "name_category": "TERBARU",
+      "title": "BALE PULANG",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/12PYBALEPULANGPO.mp3",
+      "duration": "223",
+      "lyrics": ""
+	  },
+	  {
+      "id": 11,
+      "name_category": "TERBARU",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/13PYSALAMTRESNOPO.mp3",
+      "duration": "290",
+      "lyrics": ""
+	  },
+	  {
+      "id": 12,
+      "name_category": "TERBARU",
+      "title": "PILIHAN HATI",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/14PYPILIHANHATIPO.mp3",
+      "duration": "223",
+      "lyrics": ""
+	  },
+	  {
+      "id": 13,
+      "name_category": "TERBARU",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/hapa.jpg",
+      "link_mp3": "mp3/15PYWESTATASPO.mp3",
+      "duration": "242",
+      "lyrics": ""
+	  },
+	  {
+      "id": 14,
+      "name_category": "KOPLO ASIK",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/16PYCIDRO2PO.mp3",
+      "duration": "222",
+      "lyrics": ""
+	  },
+    {
+      "id": 15,
+      "name_category": "KOPLO ASIK",
+      "title": "AKHIRE PISAHAN",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYAKHIREPISAHANPO.mp3",
+      "duration": "243",
+      "lyrics": ""
+	  },
+	  {
+      "id": 16,
+      "name_category": "KOPLO ASIK",
+      "title": "ANGIN NDALU",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYANGINDALUPO.mp3",
+      "duration": "204",
+      "lyrics": ""
+	  },
+	  {
+      "id": 17,
+      "name_category": "KOPLO ASIK",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYCERITOLOROPO.mp3",
+      "duration": "366",
+      "lyrics": ""
+	  },
+	  {
+      "id": 18,
+      "name_category": "KOPLO ASIK",
+      "title": "CINTA TAK TERPISAHKAN",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYCINTATAKTERPISAHKANPO.mp3",
+      "duration": "270",
+      "lyrics": ""
+	  },
+	  {
+      "id": 19,
+      "name_category": "KOPLO ASIK",
+      "title": "IKHLAS",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYIKHLASPO.mp3",
+      "duration": "313",
+      "lyrics": ""
+	  },
+	  {
+      "id": 20,
+      "name_category": "KOPLO ASIK",
+      "title": "JANG GANGGU",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYJANGGANGGUPO.mp3",
+      "duration": "226",
+      "lyrics": ""
+	  },
+	  {
+      "id": 21,
+      "name_category": "KOPLO ASIK",
+      "title": "LUNGAMU NINNGAL KENANGAN",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYLUGAMUNINGGALKENANGANPO.mp3",
+      "duration": "301",
+      "lyrics": ""
+	  },
+	  {
+      "id": 22,
+      "name_category": "KOPLO ASIK",
+      "title": "PERGI HILANG DAN LUPAKAN",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYPERGIHILANGDANLUPAKAN.mp3",
+      "duration": "302",
+      "lyrics": ""
+	  },
+	  {
+      "id": 23,
+      "name_category": "KOPLO ASIK",
+      "title": "SALAH",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYSALAHPO.mp3",
+      "duration": "239",
+      "lyrics": ""
+	  },
+	  {
+      "id": 24,
+      "name_category": "KOPLO ASIK",
+      "title": "SIJI WEKTUKU",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYSIJIWEKRUKUPO.mp3",
+      "duration": "243",
+      "lyrics": ""
+	  },
+	  {
+      "id": 25,
+      "name_category": "KOPLO ASIK",
+      "title": "TAK WARAHI CARANE",
+      "image": "file:///android_asset/image/hapb.jpg",
+      "link_mp3": "mp3/PYTAKWARAHICARANEPO.mp3",
+      "duration": "272",
+      "lyrics": ""
+	  }
+  ]
+}
