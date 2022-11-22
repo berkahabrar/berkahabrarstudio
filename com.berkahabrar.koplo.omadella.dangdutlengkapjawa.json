@@ -3,11 +3,11 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"STARTAPP",
-      "main_ads_banner": "",
+      "main_ads_banner": "ca-app-pub-2115024050829708/9299696678",
       "main_ads_intertitial":"ca-app-pub-2115024050829708/2954259102",
       "backup_ads_banner":"qwert12345",
       "backup_ads_intertitial":"qwert12345",
-      "interval_intertitial": 3,
+      "interval_intertitial": 1,
       "initialize_sdk":"211244804",
       "initialize_sdk_backup_ads":"211244804",
       "high_paying_keyword_1": "",
